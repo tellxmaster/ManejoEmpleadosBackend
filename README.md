@@ -15,13 +15,13 @@ micro-framework de Laravel.
 1. Clonar el repositorio
 
 ```sh
-git clone https://github.com/tellxmaster/EmployeeManagementBackend.git
+git clone https://github.com/tellxmaster/ManejoEmpleadosBackend.git
 ```
 
 2. Navegar a la carpeta
 
 ```sh
-cd EmployeeManagementBackend
+cd ManejoEmpleadosBackend
 ```
 
 3. Instalar dependencias
@@ -67,7 +67,7 @@ php artisan storage:link
 php -S localhost:8000 -t public
 ```
 
-Una vez hecho esto se puede configurar el [Frontend](https://github.com/tellxmaster/EmployeeManagementFrontend)
+Una vez hecho esto se puede configurar el [Frontend](https://github.com/tellxmaster/ManejoEmpleadosFront)
 
 ## Licencia
 
